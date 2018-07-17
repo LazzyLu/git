@@ -1,0 +1,16 @@
+#banner{width:100%;padding-bottom:10px ;}
+.half{width: 330px;margin-right:5px;float:left;height: 200px;}
+.row1>div:nth-child(2){}
+.description1{height:200px;float: left;position: relative;}
+.description1 .quaterleft,.description1 .quaterright{width: 165px; float:left;height: 200px;}
+.quaterright img{height:200px;width:165px;left:0px}
+.description1 .quaterleft{color:#969696;font:12px/1.5 "微软雅黑";background: white;padding: 0 10px;}
+.description1 .quaterleft h4{font:16px/22px;font-weight: bold;height:80px; padding-top:20px;overflow:hidden; color:#333}
+.description1 .price{color:#d10048; font-size:16px;padding-top:2px;}
+.description .price del{color:#9e9e9e; font-size:12px}
+.quaterright{}
+.arrow_left {position: absolute;left:165px;top: 43px;width: 0; height: 0;border-top: 14px solid transparent; border-bottom: 14px solid transparent; border-left: 14px solid #fff;z-index: 9;}
+.description1 .halfbig img{width:400px;float:right;padding-left: 5px;}
+.description1:hover p{color: white;}
+.description1:hover .quaterleft{background: #eeafce;}
+.description1:hover .arrow_left{border-left-color: #eeafce;}
